@@ -60,26 +60,17 @@ Amazon_DATA_EDA/
 
 - **data/amazon_data.csv**: This file contains the raw dataset used for the EDA. It includes various attributes of Amazon products such as price, rating, and review count.
 
-### Notebooks Directory
+### Jupitor Notebooks Directory
 
-- **notebooks/EDA.ipynb**: This Jupyter notebook contains the complete exploratory data analysis process. It includes data cleaning, descriptive statistics, visualizations, and insights derived from the data.
-- **notebooks/Amazon_data_EDA (2).ipynb**: An additional Jupyter notebook that provides a more detailed exploratory data analysis, including advanced visualizations and statistical insights.
-
-### Scripts Directory
-
-- **scripts/eda.py**: This Python script performs the EDA. It includes functions for data loading, cleaning, visualization, and analysis. The script can be run to reproduce the results in the notebook.
-
-### Visualizations Directory
-
-- **visualizations/plots/**: This directory contains the plots generated during the EDA. Each plot is saved as an image file and can be used for presentations or reports.
+- **notebooks/Amazon_data.jupyter.ipynb**: This Jupyter notebook contains the complete exploratory data analysis process. It includes data cleaning, descriptive statistics, visualizations, and insights derived from the data.
 
 ### Tableau Directory
 
-- **tableau/Amazon_Dashboard_byRating.twb**: This Tableau workbook contains interactive visualizations of the Amazon product data. The dashboard focuses on analyzing product ratings and their distribution.
+- **tableau/Amazon_Dashboard_byRating.tableau.twb**: This Tableau workbook contains interactive visualizations of the Amazon product data. The dashboard focuses on analyzing product ratings and their distribution.
 
 ### Excel Directory
 
-- **excel/cleaned_amazon_data.xlsx**: This Excel file contains the cleaned version of the Amazon product dataset. It was used for further analysis and visualization.
+- **excel/cleaned_data and analysis.xlsx**: This Excel file contains the cleaned version of the Amazon product dataset. and performs basic calculations and descriptve and correlation works on it
 
 ### Requirements File
 
